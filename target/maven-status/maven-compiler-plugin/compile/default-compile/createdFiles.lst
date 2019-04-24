@@ -1,0 +1,5 @@
+gj\com\dao\impl\MovieDAOImpl.class
+gj\com\controller\MovieController.class
+gj\com\service\impl\MovieServiceImpl.class
+gj\com\dao\MovieDAO.class
+gj\com\service\MovieService.class
